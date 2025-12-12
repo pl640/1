@@ -17,8 +17,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/501/index.m3u8
-#EXTINF:-1 ,Глазами туриста
-https://mfe25.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/bw2500000/playlist.m3u8
+#EXTINF:-1 ,Телепутешествия
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/2051/index.m3u8
 #EXTINF:-1 ,Viju Nature
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/161/index.m3u8
 #EXTINF:-1 ,ТНТ
@@ -47,6 +47,7 @@ http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/525/index.m3u8
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/131/index.m3u8
 #EXTINF:-1 ,Cinema
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/5051/index.m3u8
+
 
 
 
